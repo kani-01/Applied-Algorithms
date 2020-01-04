@@ -1,0 +1,3 @@
+2. Sorted array - using array alone
+
+2. getElementPosition - using Queue Implementation
